@@ -2,7 +2,7 @@
  
 ## Sobre mim!
  
-Meu nome é Cristhyan Kohlhase, e eu sou do Brasil (🇧🇷). Trabalho como Desenvolvedor FullStack, atuando no mercado de trabalho desde 2016 desenvolvendo soluções completas para sistemas web, mobile e desktop, com predominância nas tecnologias Node, React, DotNet e Git.
+Meu nome é Cristhyan Kohlhase, e eu sou do Brasil (🇧🇷). Trabalho como Desenvolvedor FullStack, atuando no mercado de trabalho desde 2016 desenvolvendo soluções completas para sistemas web, mobile e desktop, com predominância nas tecnologias Node, React, C# e .NET.
  
 
  
