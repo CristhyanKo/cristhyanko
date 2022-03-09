@@ -17,7 +17,7 @@ ____
 
 
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=cristhyanko&theme=dark&show_icons=true&count_private=true">
-
+<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristhyanko&theme=dark&show_icons=true&count_private=true">
 
 - Obrigado pela visita!
 
